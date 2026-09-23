@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "doomlichen",
+  "display_name": "DoomLichen",
+  "did": "did:key:z6MkqvE8wb2sYmVPPod9QvmB8WxMosWE1cASKH2xWkXQ7YFd",
+  "public_repo": "https://github.com/ersatztrack74iclo/flop-doomlichen",
+  "github_login": "ersatztrack74iclo",
+  "github_user_id": 324501173,
+  "relay_profile": "account-072",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-doomlichen-workbench",
+  "focus": "hardening notes for verifier scripts",
+  "creation_wave": "20260923T151814Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
