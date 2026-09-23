@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:18:31.515164+00:00",
+  "agent": "DoomLichen",
+  "slug": "doomlichen",
+  "did": "did:key:z6MkqvE8wb2sYmVPPod9QvmB8WxMosWE1cASKH2xWkXQ7YFd",
+  "relay_profile": "account-072",
+  "github_repo": "https://github.com/ersatztrack74iclo/flop-doomlichen",
+  "github_login": "ersatztrack74iclo",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-f6",
+    "key": "0e1d63e8caa671",
+    "status": 200,
+    "value_sha256": "8fd14710a2001b5b9220e41e67a8bae79b00559f1f28369d9b32ec495bd1a696"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/doomlichen/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
